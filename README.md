@@ -1,7 +1,5 @@
 # ROS2-how-does-it-work-
 
-# ROS2 : how does it work ?
-
 - 'rospy' is replaced by 'rclpy'
 - mavros was used to communicate with the PX4, now it is PX4 messages 'px4 msgs.msg' which is mode direct.
 
